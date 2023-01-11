@@ -1,0 +1,46 @@
+#######################################
+# Syntax Coloring Map For OASISPAW
+#######################################
+
+OASISPAW	KEYWORD1
+OASISPaw	KEYWORD3
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setTimer	KEYWORD2
+enableTimer	KEYWORD2
+disableTimer	KEYWORD2
+tone	KEYWORD2
+writeRGB	KEYWORD2
+ledInit	KEYWORD2
+resetDevice	KEYWORD2
+
+#######################################
+# Constants and Variables (LITERAL1)
+#######################################
+HSPI_MISO	LITERAL1
+HSPI_MOSI	LITERAL1
+HSPI_SCLK	LITERAL1
+HSPI_CS	LITERAL1
+VSPI_MISO	LITERAL1
+VSPI_MOSI	LITERAL1
+VSPI_SCLK	LITERAL1
+VSPI_CS	LITERAL1
+CC_GDO2	LITERAL1
+TEDDYPin	LITERAL1
+I2C_SCL	LITERAL1
+I2C_SDA	LITERAL1
+RESET	LITERAL1
+CONVST	LITERAL1
+RANGE	LITERAL1
+BUSY	LITERAL1
+SPEAKER	LITERAL1
+LEDPin	LITERAL1
+SerialSpeed	LITERAL1
+
+InterruptFlag	LITERAL1
+OASISBusy	LITERAL1
+FaultFlag	LITERAL1
+timerMux	LITERAL1
