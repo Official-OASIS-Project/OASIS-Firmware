@@ -1,6 +1,8 @@
 # OASIS-Firmware
 Arduino source code including non standard libraries
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/87f7ffccd85d4116b4e7a6fd2ee3fbe4)](https://app.codacy.com/gh/Official-OASIS-Project/OASIS-Firmware?utm_source=github.com&utm_medium=referral&utm_content=Official-OASIS-Project/OASIS-Firmware&utm_campaign=Badge_Grade)
+
 ## Notes
 - Compile the source code with ESP32 Core version 1.06, do no use version 2.X or higher
 - You need the additional libraries from the `libraries` folder within the libraries folder of your Arduino sketchbook directory
