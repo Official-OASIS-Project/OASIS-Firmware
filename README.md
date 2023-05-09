@@ -1,4 +1,7 @@
 # OASIS-Firmware
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/87f7ffccd85d4116b4e7a6fd2ee3fbe4)](https://app.codacy.com/gh/Official-OASIS-Project/OASIS-Firmware?utm_source=github.com&utm_medium=referral&utm_content=Official-OASIS-Project/OASIS-Firmware&utm_campaign=Badge_Grade)
+
 Arduino source code including non standard libraries
 
 ## Notes
